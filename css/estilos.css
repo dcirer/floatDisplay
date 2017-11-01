@@ -13,6 +13,7 @@ header h1{
 #contenido {
 	padding: 10px;
 	background-color: F9F7F3;
+	margin-left: 200px;
 }
 
 footer {
@@ -23,3 +24,15 @@ footer {
 	text-align: center;
 }
 
+#menu-principal ul {
+float: left;
+width: 200px;
+padding: 0;
+margin: 0;
+}
+#menu-principal ul li{
+	list-style: none;
+}
+#contenido p img {
+float: right;
+}
